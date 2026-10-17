@@ -25,10 +25,6 @@
     <control status="0x91" midino="0x48" action="jog-touch" deck="1"/>
     <control status="0x92" midino="0x48" action="jog-touch" deck="2"/>
     <control status="0x93" midino="0x48" action="jog-touch" deck="3"/>
-    <control status="0xB0" midino="0x22" action="jog-bend" deck="0"/>
-    <control status="0xB1" midino="0x22" action="jog-bend" deck="1"/>
-    <control status="0xB2" midino="0x22" action="jog-bend" deck="2"/>
-    <control status="0xB3" midino="0x22" action="jog-bend" deck="3"/>
     <control status="0xB0" midino="0x21" action="jog-bend" deck="0"/>
     <control status="0xB1" midino="0x21" action="jog-bend" deck="1"/>
     <control status="0xB2" midino="0x21" action="jog-bend" deck="2"/>
