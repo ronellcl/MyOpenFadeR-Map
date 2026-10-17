@@ -152,6 +152,50 @@
     <control status="0x91" midino="0x3C" action="hw-deck-select" deck="1"/>
     <control status="0x92" midino="0x3C" action="hw-deck-select" deck="2"/>
     <control status="0x93" midino="0x3C" action="hw-deck-select" deck="3"/>
+    <control status="0x97" midino="0x20" action="jump-back-4" deck="0"/>
+    <control status="0x99" midino="0x20" action="jump-back-4" deck="1"/>
+    <control status="0x9B" midino="0x20" action="jump-back-4" deck="2"/>
+    <control status="0x9D" midino="0x20" action="jump-back-4" deck="3"/>
+    <control status="0x97" midino="0x21" action="jump-back-1" deck="0"/>
+    <control status="0x99" midino="0x21" action="jump-back-1" deck="1"/>
+    <control status="0x9B" midino="0x21" action="jump-back-1" deck="2"/>
+    <control status="0x9D" midino="0x21" action="jump-back-1" deck="3"/>
+    <control status="0x97" midino="0x26" action="jump-fwd-1" deck="0"/>
+    <control status="0x99" midino="0x26" action="jump-fwd-1" deck="1"/>
+    <control status="0x9B" midino="0x26" action="jump-fwd-1" deck="2"/>
+    <control status="0x9D" midino="0x26" action="jump-fwd-1" deck="3"/>
+    <control status="0x97" midino="0x27" action="jump-fwd-4" deck="0"/>
+    <control status="0x99" midino="0x27" action="jump-fwd-4" deck="1"/>
+    <control status="0x9B" midino="0x27" action="jump-fwd-4" deck="2"/>
+    <control status="0x9D" midino="0x27" action="jump-fwd-4" deck="3"/>
+    <control status="0x97" midino="0x60" action="loop-1" deck="0"/>
+    <control status="0x99" midino="0x60" action="loop-1" deck="1"/>
+    <control status="0x9B" midino="0x60" action="loop-1" deck="2"/>
+    <control status="0x9D" midino="0x60" action="loop-1" deck="3"/>
+    <control status="0x97" midino="0x61" action="loop-2" deck="0"/>
+    <control status="0x99" midino="0x61" action="loop-2" deck="1"/>
+    <control status="0x9B" midino="0x61" action="loop-2" deck="2"/>
+    <control status="0x9D" midino="0x61" action="loop-2" deck="3"/>
+    <control status="0x97" midino="0x62" action="loop-4" deck="0"/>
+    <control status="0x99" midino="0x62" action="loop-4" deck="1"/>
+    <control status="0x9B" midino="0x62" action="loop-4" deck="2"/>
+    <control status="0x9D" midino="0x62" action="loop-4" deck="3"/>
+    <control status="0x97" midino="0x63" action="loop-8" deck="0"/>
+    <control status="0x99" midino="0x63" action="loop-8" deck="1"/>
+    <control status="0x9B" midino="0x63" action="loop-8" deck="2"/>
+    <control status="0x9D" midino="0x63" action="loop-8" deck="3"/>
+    <control status="0x97" midino="0x64" action="loop-16" deck="0"/>
+    <control status="0x99" midino="0x64" action="loop-16" deck="1"/>
+    <control status="0x9B" midino="0x64" action="loop-16" deck="2"/>
+    <control status="0x9D" midino="0x64" action="loop-16" deck="3"/>
+    <control status="0x97" midino="0x70" action="key-down" deck="0"/>
+    <control status="0x99" midino="0x70" action="key-down" deck="1"/>
+    <control status="0x9B" midino="0x70" action="key-down" deck="2"/>
+    <control status="0x9D" midino="0x70" action="key-down" deck="3"/>
+    <control status="0x97" midino="0x71" action="key-up" deck="0"/>
+    <control status="0x99" midino="0x71" action="key-up" deck="1"/>
+    <control status="0x9B" midino="0x71" action="key-up" deck="2"/>
+    <control status="0x9D" midino="0x71" action="key-up" deck="3"/>
   </controls>
   <outputs>
     <output status="0x90" midino="0x0B" light="Play" deck="0"/>
