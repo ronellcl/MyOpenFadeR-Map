@@ -15,8 +15,6 @@
     <control status="0x91" midino="0x20" action="jog-touch" deck="1"/>
     <control status="0x90" midino="0x48" action="jog-touch" deck="0"/>
     <control status="0x91" midino="0x48" action="jog-touch" deck="1"/>
-    <control status="0xB0" midino="0x22" action="jog-bend" deck="0"/>
-    <control status="0xB1" midino="0x22" action="jog-bend" deck="1"/>
     <control status="0xB0" midino="0x21" action="jog-bend" deck="0"/>
     <control status="0xB1" midino="0x21" action="jog-bend" deck="1"/>
     <control status="0xB0" midino="0x26" action="jog-bend" deck="0"/>
